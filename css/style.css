@@ -13,3 +13,9 @@ div>ul>li>a{
 div>ul>li>a:hover{
   color: tomato !important;
 }
+.half-width{
+  width: 50%;
+}
+.half-width img{
+  width: 80%;
+}
